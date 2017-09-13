@@ -1,0 +1,3 @@
+C:/Users/WilliamPC/CLionProjects/tarea6progra/cmake-build-debug/CMakeFiles/tarea6progra.dir
+C:/Users/WilliamPC/CLionProjects/tarea6progra/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WilliamPC/CLionProjects/tarea6progra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
